@@ -95,13 +95,11 @@ h1{
     width: 50%;
 }
 
-.finish{
+footer{
     text-align: center;
     background-color: black;
     color: white;
-    width: 60%;
-    padding-left: none;
-    padding-right: none;
+   
 }
 
  
