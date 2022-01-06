@@ -101,7 +101,9 @@ footer{
     text-align: center;
     background-color: black;
     color: white;
-   
+}
+.fornt{
+    font-size: 80%;
 }
 #banner{
     background-image: url(image/shape-1.png);
